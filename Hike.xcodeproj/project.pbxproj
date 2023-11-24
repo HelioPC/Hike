@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		771612CB2B10F0CE007DE9C6 /* CustomListRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 771612CA2B10F0CE007DE9C6 /* CustomListRowView.swift */; };
 		77165C252B0D6954008CAC30 /* HikeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77165C242B0D6954008CAC30 /* HikeApp.swift */; };
 		77165C272B0D6954008CAC30 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77165C262B0D6954008CAC30 /* ContentView.swift */; };
 		77165C292B0D6955008CAC30 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 77165C282B0D6955008CAC30 /* Assets.xcassets */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		771612CA2B10F0CE007DE9C6 /* CustomListRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomListRowView.swift; sourceTree = "<group>"; };
 		77165C212B0D6954008CAC30 /* Hike.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hike.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		77165C242B0D6954008CAC30 /* HikeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeApp.swift; sourceTree = "<group>"; };
 		77165C262B0D6954008CAC30 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -93,6 +95,7 @@
 				77165C3A2B0F2084008CAC30 /* CustomButtonView.swift */,
 				77165C3E2B0FA2FA008CAC30 /* CustomCircleView.swift */,
 				77165C402B0FA74E008CAC30 /* MotionAnimationView.swift */,
+				771612CA2B10F0CE007DE9C6 /* CustomListRowView.swift */,
 			);
 			path = Component;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 			files = (
 				77165C272B0D6954008CAC30 /* ContentView.swift in Sources */,
 				77165C3F2B0FA2FA008CAC30 /* CustomCircleView.swift in Sources */,
+				771612CB2B10F0CE007DE9C6 /* CustomListRowView.swift in Sources */,
 				77165C332B0DDECF008CAC30 /* CardView.swift in Sources */,
 				77165C252B0D6954008CAC30 /* HikeApp.swift in Sources */,
 				77165C3B2B0F2084008CAC30 /* CustomButtonView.swift in Sources */,
